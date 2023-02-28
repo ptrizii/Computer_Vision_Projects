@@ -3,7 +3,6 @@ import streamlit as st
 import tensorflow as tf
 import numpy as np
 import cv2
-from PIL import Image
 from keras.models import load_model
 
 # Load Model

@@ -1,4 +1,4 @@
-opencv
 tensorflow
 numpy
-matplotlib.pyplot
+opencv-python
+load_model
