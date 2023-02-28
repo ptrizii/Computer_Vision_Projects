@@ -1,0 +1,1 @@
+This repository contains projects related to Computer Vision such as image classification, object detection, and etc.
