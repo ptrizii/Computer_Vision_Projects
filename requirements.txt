@@ -1,4 +1,5 @@
+streamlit
 tensorflow
 numpy
 opencv-python
-load_model
+keras.models.load_model
